@@ -34,14 +34,14 @@
     "gulp-babel": "^6.1.2",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.5.1",
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7",
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0",
     "webpack-stream": "^3.1.0"
   },
   "dependencies": {
     "smooth-scrollbar": "^5.2.1"
   },
   "peerDependencies": {
-    "react": "^0.14.7"
+    "react": "^15.0.0"
   }
 }
